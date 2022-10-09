@@ -1,0 +1,4 @@
+#忽略test1.css这个文件 
+test1.css
+#忽略整个realtest文件
+realtest/
